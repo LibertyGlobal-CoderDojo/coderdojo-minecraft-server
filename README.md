@@ -71,14 +71,15 @@ Bearing in mind that handing out FTP access gives enough access to break the ser
 In order to restore the server
 
 - Stop the server
-- Run `./restore.sh`
+- Login with FTP and delete everything in the root of the server
+- Run `./restore.sh {server_ip} {ftp_user} {password}`
 - Start the server
 
-This will delete the contents of the FTP site, upload the config from this project and reinstall scriptcraft
+This will delete the contents of the FTP site, upload the config from this project and reinstall scriptcraft. Remember to re-enable classroom mode and turn off the daylight cycle as noted in the restarting the server section
 
 NB. this will also reset the world and delete any previously uploaded scripts. Players should be responsible for backing up their own scripts
 
 In order to backup the server config
 
-- Run `./backup.sh`
+- Run `./backup.sh {server_ip} {ftp_user} {password}`
 - Add, commit and push the newly downloaded config to Github
