@@ -94,7 +94,7 @@ With the above initial configuration, players will not be able to join unless th
 
 - Go to the `Players` section
 - Click `Create Player`
-- Set the `Name` to the players Minecraft login name
+- Set the `Name` to the player's Minecraft login name
 - Set the `Role` to `Guest`
 
 ## Uploading scripts
