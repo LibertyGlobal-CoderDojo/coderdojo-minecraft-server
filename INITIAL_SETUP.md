@@ -31,6 +31,20 @@ The following procedure was followed to get the initial setup of the server. It 
 - Click `save`
 - Reset the world as described below so that any previously generated non flat world is discarded
 
+## Installing the Scriptcraft plugin
+  
+ -To get the latest version of the Scriptcraft plugin, we will upload our own jarfile.
+ +To use the latest version of the Scriptcraft plugin, we will upload our own jarfile.
+  
+ -- Download the latest scriptcraft jatfile from http://scriptcraftjs.org/download/latest/
+ +- Download the latest scriptcraft jarfile from http://scriptcraftjs.org/download/latest/
+    - At the time of writing this was version 3.1.12
+  - Go to `Files/FTP File Access`
+  - Select `CoderDojo Minecraft Server` and login
+ @@ -43,22 +14,6 @@ To get the latest version of the Scriptcraft plugin, we will upload our own jarf
+  - Upload the `scriptcraft.jar` file
+  - restart the server
+
 ## Enabling script uploading
 
 Because we are using classroom mode (see Restarting the server above) each player gets their own directory to upload scripts to. However in order to upload scripts they will need to use an FTP client and connect using shared login details which should be distributed at CoderDojo events.
