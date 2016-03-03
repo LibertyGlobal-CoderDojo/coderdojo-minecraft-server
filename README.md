@@ -2,18 +2,6 @@
 
 Initially the Shockbyte account and server should have been setup according to the `INITIAL_SETUP.md` guide
 
-## Installing the Scriptcraft plugin
-
-To use the latest version of the Scriptcraft plugin, we will upload our own jarfile.
-
-- Download the latest scriptcraft jarfile from http://scriptcraftjs.org/download/latest/
-  - At the time of writing this was version 3.1.12
-- Go to `Files/FTP File Access`
-- Select `CoderDojo Minecraft Server` and login
-- Go to the `plugins` folder
-- Upload the `scriptcraft.jar` file
-- restart the server
-
 ## Restarting the server (and enabling classroom mode)
 
 Restarting the server is straight forward from Multicraft, there's a big button, however everytime you do so you will need to re-enable classroom mode.
