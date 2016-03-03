@@ -43,6 +43,22 @@ To get the latest version of the Scriptcraft plugin, we will upload our own jarf
 - Upload the `scriptcraft.jar` file
 - restart the server
 
+## Enabling script uploading
+
+Because we are using classroom mode (see Restarting the server above) each player gets their own directory to upload scripts to. However in order to upload scripts they will need to use an FTP client and connect using shared login details which should be distributed at CoderDojo events.
+
+We don't want to hand out the main Shockbyte account login details.
+
+The first thing to do is request a new multicraft user from Shockbyte by raising a support ticket and supplying the shared user's email address (I created a new account at gmail) so that they can create the user and attach it to the server's users.
+
+Then you can
+
+- Go to the `Advanced/Users` section
+- If Shockbyte have added the user it should be listed there
+- Set the `FTP access` to `Full access`
+- Set the `Role` to `Guest`
+- You can now distribute the FTP username and password to players
+
 ## Restarting the server (and enabling classroom mode)
 
 Restarting the server is straight forward from Mutlicraft, there's a big button, however everytime you do so you will need to re-enable `classroom` mode.
@@ -79,7 +95,14 @@ With the above initial configuration, players will not be able to join unless th
 - Go to the `Players` section
 - Click `Create Player`
 - Set the `Name` to the players Minecraft login name
-- Set the `Role` to `Guest` - they will not need more permissions here
-- Go to the `Console` section
+- Set the `Role` to `Guest`
 
 ## Uploading scripts
+
+Use an FTP client (eg. Filezilla) to connect to the server (using the server IP address and the shared login created above). Scripts can then be uploaded to player specific directories under the path
+
+```
+/scriptcraft/players/{playername}/
+```
+
+Because we are using classroom mode, scripts added to these directories will be automatically loaded and exports added to the player's javascript context (see scriptcraft docs)
