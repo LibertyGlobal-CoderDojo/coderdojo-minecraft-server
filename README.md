@@ -88,6 +88,8 @@ NB. The daylight cycle rule may persist a restart but the classroom setting will
 - Click Delete
 - Start the server
 
+NB. Resetting the world may turn the daylight cycle back on (see restarting the server above)
+
 ## Adding players
 
 With the above initial configuration, players will not be able to join unless they have been added to the `Players` section in the Multicraft interface.
