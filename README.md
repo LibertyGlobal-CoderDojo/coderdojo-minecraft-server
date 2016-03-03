@@ -29,7 +29,7 @@ Instructions and config for setting up a minecraft server at http://www.shockbyt
 - Set `spawn-npcs` to `false`
 - Set `generate-structures` to `false`
 - Click `save`
-- Reset the world as described below so that any previoulsy generated non flat world is discarded
+- Reset the world as described below so that any previously generated non flat world is discarded
 
 ## Installing the Scriptcraft plugin
 
