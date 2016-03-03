@@ -106,3 +106,9 @@ Use an FTP client (eg. Filezilla) to connect to the server (using the server IP 
 ```
 
 Because we are using classroom mode, scripts added to these directories will be automatically loaded and exports added to the player's javascript context (see scriptcraft docs)
+
+## Restoring the server
+
+Bearing in mind that handing out FTP access gives enough access to break the server, it is necessary to have a backup/restore plan just in case
+
+TBD...
