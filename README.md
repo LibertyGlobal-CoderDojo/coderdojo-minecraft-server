@@ -1,5 +1,7 @@
 # coderdojo-minecraft-server
 
+![Server Status](http://mc.shockbyte.com/index.php?r=status/13446.png)
+
 Initially the Shockbyte account and server should have been setup according to the `INITIAL_SETUP.md` guide
 
 ## Restarting the server (and enabling classroom mode)
