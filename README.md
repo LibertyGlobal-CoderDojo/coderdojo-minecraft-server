@@ -61,9 +61,9 @@ Then you can
 
 ## Restarting the server (and enabling classroom mode)
 
-Restarting the server is straight forward from Mutlicraft, there's a big button, however everytime you do so you will need to re-enable `classroom` mode.
+Restarting the server is straight forward from Multicraft, there's a big button, however everytime you do so you will need to re-enable classroom mode.
 
-Class room mode enable scripts for all players and gives them there own scripts folder and context to use.
+Classroom mode enable scripts for all players and gives them their own scripts folder and context to use.
 
 While you're at it, you may want to stop the daylight cycle so that it stays daytime all the time
 
