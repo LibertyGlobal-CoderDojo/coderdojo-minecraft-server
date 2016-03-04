@@ -1,4 +1,4 @@
-# coderdojo-minecraft-server
+# minecraft-server
 
 ![Server Status](http://mc.shockbyte.com/index.php?r=status/13446.png)
 
