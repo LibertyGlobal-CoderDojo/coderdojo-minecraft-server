@@ -1,4 +1,4 @@
-# coderdojo-minecraft-server
+# minecraft-server
 
 The following procedure was followed to get the initial setup of the server. It should not be necessary to do this again as the files committed in this project should be used to restore a working state.
 
