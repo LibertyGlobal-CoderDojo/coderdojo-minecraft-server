@@ -22,7 +22,6 @@ The following procedure was followed to get the initial setup of the server. It 
 - Select `Server Settings`
 - Set `Spawn Monsters` to `Disabled`
 - Set `Player vs Player` to `Disabled`
-- Set `Spawn Animals` to `Disabled`
 - Set `Game Mode` to `Creative`
 - Set `Server Message` to `CoderDojo Minecraft Server` or something
 - Set `level-type` to `FLAT`

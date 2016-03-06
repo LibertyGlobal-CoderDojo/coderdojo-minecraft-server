@@ -43,6 +43,8 @@ With the above initial configuration, players will not be able to join unless th
 - Click `Create Player`
 - Set the `Name` to the player's Minecraft login name
 - Set the `Role` to `Guest`
+- Go to the `Console` section
+- Enter `op {player_name}` to add op rights for the player
 
 ## Uploading scripts
 
