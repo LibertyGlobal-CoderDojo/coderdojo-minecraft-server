@@ -1,7 +1,19 @@
 [
   {
+    "uuid": "fce83e89-6dd5-459f-897d-80f683a6bbe0",
+    "name": "DJSiem115",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "49063f09-23a5-4b4b-ad9f-039bee2d44a2",
     "name": "pghalliday",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "de578139-b057-488e-a80c-9b6274ef518a",
+    "name": "Nenax50",
     "level": 4,
     "bypassesPlayerLimit": false
   },
@@ -14,6 +26,30 @@
   {
     "uuid": "33ec43ff-ea27-4a6b-a4c0-bedde458488c",
     "name": "Lisannevdmeer",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "d1a75a1c-3543-4a21-80a1-664b4130e900",
+    "name": "GWFTomas",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "5a42e217-7ebe-4b31-bdc0-afa1ce34b781",
+    "name": "Luukskye",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "d6bb6598-e18c-4eb1-91b8-66d8f94f47d8",
+    "name": "Wagell",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "cb6ccbf2-8481-4d86-9bb5-14ec157e354b",
+    "name": "The_MLGSkillerNL",
     "level": 4,
     "bypassesPlayerLimit": false
   }
